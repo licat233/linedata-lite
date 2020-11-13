@@ -1,9 +1,12 @@
 {
     "popin_account": "账号",
+    "popin_CampaignList": [
+        "5fa113c80fc10c306209f035"
+    ],
     "popin_cookie": "Cookie",
     "mysql_addr": "localhost:3306",
     "mysql_account": "root",
-    "mysql_password": "密码",
+    "mysql_password": "数据库密码",
     "mysql_dbname": "数据库昵称",
     "mysql_tbname": "数据表昵称"
 }
